@@ -270,6 +270,103 @@ form button:hover{
 
 }
 
+table th, td{
+  text-align: center
+}
+
+#btnAdicionarDespesa{
+  width: 20%;
+  height: 40px;
+  border: 1px solid #E9E9E9;
+  border-radius: 5px;
+  padding: 0px 10px;
+  margin-bottom: 10px;
+  background-color: #e4870d;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+    
+}
+
+#btnAdicionarReceita{
+  width: 20%;
+  height: 40px;
+  border: 1px solid #E9E9E9;
+  border-radius: 5px;
+  padding: 0px 10px;
+  margin-bottom: 10px;
+  background-color: #e4870d;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+    
+}
+
+#btnAdicionarConta{
+  width: 25%;
+  height: 40px;
+  border: 1px solid #E9E9E9;
+  border-radius: 5px;
+  padding: 0px 10px;
+  margin-bottom: 10px;
+  background-color: #e4870d;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+    
+}
+ 
+
+#btnEditar{
+  width: 40px;
+  height: 40px;
+  border: 1px solid #E9E9E9;
+  border-radius: 5px;
+  padding: 0px 10px;
+  margin-bottom: 10px;
+  background-color: #0d63e4;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+    
+}
+
+#btnDeletar{
+  width: 40px;
+  height: 40px;
+  border: 1px solid #E9E9E9;
+  border-radius: 5px;
+  padding: 0px 10px;
+  margin-bottom: 10px;
+  background-color: #e4260d;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+    
+}
+
+#btnTransferir{
+  width: 40px;
+  height: 40px;
+  border: 1px solid #E9E9E9;
+  border-radius: 5px;
+  padding: 0px 10px;
+  margin-bottom: 10px;
+  background-color: #3bb64c;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+    
+}
+  
+
+
 
 
 
