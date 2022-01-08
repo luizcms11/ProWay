@@ -1,15 +1,15 @@
-package br.com.dankicommerce.controller;
+package br.com.prowayapp.controller;
 
 import br.com.caelum.vraptor.Controller;
 import br.com.caelum.vraptor.Get;
 import br.com.caelum.vraptor.Path;
 
 @Controller
-@Path("login")
-public class LoginController {
+@Path("formconta")
+public class FormContaController {
 
 	@Get("")
-	public void login() {
+	public void formconta() {
 		
 	}
 }
