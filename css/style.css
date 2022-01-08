@@ -367,7 +367,75 @@ table th, td{
   
 
 
+.content-login{
+  width: 50%;
+  height: 50%;
+  align-items: center;
+  padding: 25px;
+  padding-bottom: 70px;
+  display:flex;
+  position: absolute;
+  margin:0;
+  top:25%;
+  left:25%;
+  -ms-transform: translateY(50%, -50%);
+  transform: translateY(-50%, -50%);
 
+  border-color: #e4870d;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  
+}
+
+
+
+.content-login h1{
+  font-size: 5rem;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  text-align: center;
+  font-weight: 1000;
+  color: #e4870d;
+
+}
+
+#login-box {
+  color: white;
+}
+
+
+
+.btnLogin{
+  width: 25%;
+  height: 40px;
+  border: 1px solid #E9E9E9;
+  border-radius: 5px;
+  padding: 0px 10px;
+  margin-bottom: 10px;
+  background-color: #e4870d;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+    
+}
+
+.btnLogin:hover{
+  width: 25%;
+  height: 40px;
+  border: 1px solid #e4870d;
+  border-radius: 5px;
+  padding: 0px 10px;
+  margin-bottom: 10px;
+  background-color: #E9E9E9;
+  color: #e4870d;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+  cursor: pointer;
+    
+}
 
 
 
